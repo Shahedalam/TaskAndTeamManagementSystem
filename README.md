@@ -164,3 +164,19 @@ Authorization: Bearer <your-token>
 | POST   | `/api/tasks`          | Create task     |
 | PUT    | `/api/tasks/{id}`     | Update task     |
 | DELETE | `/api/tasks/{id}`     | Delete task     |
+
+
+### Docker
+
+```bash
+docker-compose build
+docker-compose up
+
+if api Container is not running 
+first get docker container list : docker ps -a
+
+copy taskandteammanagementsystem-api name
+
+docker run -p 5072:8080 copied-image-name
+
+```

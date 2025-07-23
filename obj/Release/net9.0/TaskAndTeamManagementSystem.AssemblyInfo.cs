@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskAndTeamManagementSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f75cdbdc4e8b18c19a9835f19073c21968e5e52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+888c6611e77cfc8c5b638e5e3ec116ff8185c3a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskAndTeamManagementSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskAndTeamManagementSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

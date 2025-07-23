@@ -17,7 +17,7 @@ namespace TaskAndTeamManagementSystem.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                var connectionString = "server=localhost;port=3306;database=taskteamdb;user=shahed;password=1234;";
+                var connectionString = "server=localhost;port=3306;database=task_team_db;user=root;password=task1team2db;";
                 optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
             }
         }
